@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "609bc1404959612a88cf9766"
+  },
+  "date": 1620818654664,
+  "views": 2,
+  "title": "Formation web",
+  "content": "<p>Fomarion web, html css, javascript, le lundi 22 Janvier a 15h</p>",
+  "category_id": "609bc7454959612a88cf976c",
+  "keywords": "web",
+  "image": "75187989_2506818059555641_9094904368120987648_n.jpg",
+  "num": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc85e4959612a88cf976f"
+  },
+  "date": 1620818654664,
+  "views": 1,
+  "title": "Competition volleyball",
+  "content": "<p>Les club CSD vous invite a participer dans la competition du volleyball qui se deroulera a l&#39;ENSAT le 13 Mars 2021<br>Veuillezconsulter le lien si dessus pour plus de details</p>",
+  "category_id": "609bc7544959612a88cf976e",
+  "keywords": "volley, competition",
+  "image": "FIVB-vball-1024x683.png",
+  "num": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bcd794959612a88cf9771"
+  },
+  "date": 1620818654664,
+  "views": 0,
+  "title": "Voyage humanitaire",
+  "content": "<p>Malheureusement, le voyage humanitaire a ete annule a cause de la pandemie et les restrictions de deplacement</p>",
+  "category_id": "609bc5744959612a88cf9768",
+  "keywords": "voyagae",
+  "image": "fo1e8fwksiovwyhaejvrnzaly0xpincm0njqi5odrveg1r4k9xct3fnvbgyebxap-.jpg",
+  "num": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bcf654959612a88cf9776"
+  },
+  "date": 1620818654664,
+  "views": 0,
+  "title": "Collaboration CSCxRoboticsClub",
+  "content": "<p>Hackathon ENSAT est un evenement ne de la collaboration des deux clubs Computer Science Club et Robotics club</p>",
+  "category_id": "609bc7394959612a88cf976b",
+  "keywords": "colab",
+  "image": "80832047_107952190720054_4519063889047977984_n.jpg",
+  "num": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bd1ac4959612a88cf977b"
+  },
+  "date": 1620818654664,
+  "views": 1,
+  "title": "Fomarion CP",
+  "content": "<p>Formation</p>",
+  "category_id": "609bc74d4959612a88cf976d",
+  "keywords": "web",
+  "image": "9cb8fd67-544e-4d05-9790-7b2250e81a25.jpg",
+  "num": 5,
+  "__v": 0
+}]
