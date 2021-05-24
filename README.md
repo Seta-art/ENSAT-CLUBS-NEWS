@@ -36,7 +36,7 @@ L’administrateur peut être une personne désignée par l’ensemble des clubs
 * Npm
 
 ## Outils Agiles
-* Trello [Link to Trello](https://google.com)
+* Trello [Link to Trello](https://trello.com/b/420OpsMN/ensat-club-news)
 * Whatsapp
 * Github
 
