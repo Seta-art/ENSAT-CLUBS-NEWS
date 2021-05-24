@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "609bc7454959612a88cf976c"
+  },
+  "name": "Web",
+  "category_id": "609bbed84959612a88cf9765",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc74d4959612a88cf976d"
+  },
+  "name": "CP",
+  "category_id": "609bbed84959612a88cf9765",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609bc7544959612a88cf976e"
+  },
+  "name": "Volley",
+  "category_id": "609bc7154959612a88cf976a",
+  "__v": 0
+}]

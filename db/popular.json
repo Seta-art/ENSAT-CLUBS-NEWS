@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "609e6ab62a7c13097c5ea23b"
+  },
+  "article_id": "609bcf654959612a88cf9776",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609e6ab62a7c13097c5ea23c"
+  },
+  "article_id": "609bc85e4959612a88cf976f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e89ae25f443d906dd9bd"
+  },
+  "article_id": "609bd1ac4959612a88cf977b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e89ae25f443d906dd9be"
+  },
+  "article_id": "609bcf654959612a88cf9776",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e89ae25f443d906dd9bf"
+  },
+  "article_id": "609bc85e4959612a88cf976f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e89ae25f443d906dd9c0"
+  },
+  "article_id": "609bc1404959612a88cf9766",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e8a1e25f443d906dd9c1"
+  },
+  "article_id": "609bd1ac4959612a88cf977b",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e8a1e25f443d906dd9c2"
+  },
+  "article_id": "609bcf654959612a88cf9776",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e8a1e25f443d906dd9c3"
+  },
+  "article_id": "609bcd794959612a88cf9771",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e8a1e25f443d906dd9c4"
+  },
+  "article_id": "609bc85e4959612a88cf976f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8e8a1e25f443d906dd9c5"
+  },
+  "article_id": "609bc1404959612a88cf9766",
+  "__v": 0
+}]

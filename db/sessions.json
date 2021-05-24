@@ -1,0 +1,7 @@
+[{
+  "_id": "EQkJwhXr1Aep1MG0L1QplcjUIgoU5o-m",
+  "expires": {
+    "$date": "2021-06-05T11:21:13.149Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"passport\":{}}"
+}]
