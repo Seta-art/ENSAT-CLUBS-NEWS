@@ -5,7 +5,7 @@ L'objectif est de faire une plateforme de référence d’interaction entre les 
 ## But
 Faciliter la communication entre les clubs et les élèves
 ## Vidéo de Demo du Rendu Final
-[lien vers la vidép de demo](https://youtube.com)
+[lien vers la vidéo de demo](https://youtube.com)
 ## Rapport
 [Lien vers le rapport](https://drive.google.com)
 ## Cahier de Charges 
